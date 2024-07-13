@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = pdbretas@gmail.com
+	name = Pedro Galgoul
